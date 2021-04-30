@@ -1,6 +1,11 @@
 # Smart Service Resource
 This repository contains a batch class which we can use to maintain Service Resources in Salesforce Scheduler app by using simple CSVs. This is a single batch class which can operate on different data sources.
 
+<a href="https://githubsfdeploy.herokuapp.com">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
+</a>
+
 # Quick Steps
 >If you want to run this code as-is, you need existing data in a certain format. Of course, you can modify this code according to your need.
 
